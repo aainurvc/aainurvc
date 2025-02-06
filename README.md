@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ainur Mardhiah Binti Sanip</h1>
 <h3 align="center">A Student of Computer Science (Computer Network and Security)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aainurvc&color=green&label=Profile%20views&style=flat" alt="aainurvc" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aainurvc&color=93C572&label=Profile%20views&style=flat" alt="aainurvc" /> </p>
 
 - 🌱 I’m currently learning **C++ programming**
 
