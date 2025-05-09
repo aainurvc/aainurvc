@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aainurvc&color=93C572&label=Profile%20views&style=flat" alt="aainurvc" /> </p>
 
-- 🌱 I’m currently learning **C++ programming**
+
 
 - 📫 How to reach me **ainurm4rdhh@gmail.com**
 
